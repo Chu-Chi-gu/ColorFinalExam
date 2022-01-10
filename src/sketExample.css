@@ -1,0 +1,36 @@
+.main {
+    height: 580px;
+    position: relative;
+    background-color: aqua;
+}
+.textArea {
+    text-align: left;
+    max-width: 580px;
+    padding: 0px 20px;
+    margin: 0px auto;
+    position: relative;
+    padding-right: 260px;
+}
+.title {
+    padding-top: 70px;
+    font-size: 52px;
+    color: rgba(0,0,0,0.65);
+}
+.content {
+    font-size: 20px;
+    line-height: 27px;
+    color: rgba(0,0,0,0.4);
+    padding-top: 15px;
+    font-weight: 300;
+    max-width: 320px;
+}
+.sketup {
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    width: 225px;
+}
+.sket {
+    position: absolute ;
+    right: 0px;
+}

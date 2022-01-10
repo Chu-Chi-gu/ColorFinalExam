@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import {SketchPicker} from 'react-color';
 
 ReactDOM.render(
   <React.StrictMode>
